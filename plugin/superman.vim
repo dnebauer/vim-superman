@@ -29,7 +29,7 @@ function! superman#SuperMan(...)
   setlocal readonly
   setlocal nomodifiable
 
-  setlocal number
+  setlocal nonumber
 
   setlocal noexpandtab
   setlocal tabstop=8
